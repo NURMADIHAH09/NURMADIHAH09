@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NURMADIHAH09
-- 👀 I’m interested in books
 - 🌱 I’m currently learning Mobile Computing in UiTM 
 - 📫 Reach me via my student email
 
