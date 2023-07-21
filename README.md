@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NURMADIHAH09
-- 🌱 I’m currently learning Mobile Computing in UiTM 
-- 📫 Reach me via my student email
+- 🌱 I’m currently learning Computer Science and Mobile Computing in UiTM Kuala Terengganu
 
 <!---
 NURMADIHAH09/NURMADIHAH09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
